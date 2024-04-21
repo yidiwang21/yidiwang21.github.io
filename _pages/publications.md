@@ -19,7 +19,7 @@ author_profile: true
 * <u>Yidi Wang</u>, Mohsen Karimi, and Hyoseung Kim. \
     **Towards Energy-Efficient Real-Time Scheduling of Heterogeneous Multi-GPU Systems.** \
     In Real-Time Systems Symposium (RTSS), 2022. \
-    [[Paper](files/wang2022rtss-sbeet-mg.pdf) | [Slides](files/slides_wang2022rtss-sbeet-mg.pdf) | [Source Code](https://github.com/rtenlab/sBEET-mg)]
+    [[Paper](https://yidiwang21.github.io/files/wang2022rtss-sbeet-mg.pdf) | [Slides](https://yidiwang21.github.io/files/slides_wang2022rtss-sbeet-mg.pdf) | [Source Code](https://github.com/rtenlab/sBEET-mg)]
 
 * Mohsen Karimi, <u>Yidi Wang</u>, and Hyoseung Kim. \
     **An Open-Source Power Monitoring Framework for Real-Time Energy-Aware GPU Scheduling Research.** \
