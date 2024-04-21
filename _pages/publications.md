@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 {% if site.author.googlescholar %}
@@ -37,7 +37,7 @@ author_profile: true
     [[Paper](https://yidiwang21.github.io/files/2021/RTSS21_sBEET.pdf) | [Slides](https://yidiwang21.github.io/files/2021/RTSS21_sBEET_slides.pdf)]
 
 * Yecheng Xiang, <u>Yidi Wang</u>, Hyunjong Choi, Mohsen Karimi and Hyoseung Kim.  
-    **AegisDNN: Dependable and Timely Execution of DNN Tasks with SGX.**
+    **AegisDNN: Dependable and Timely Execution of DNN Tasks with SGX.**  
     In Real-Time Systems Symposium (RTSS), 2021.  
     [[Paper](https://yidiwang21.github.io/files/2021/RTSS21_AegisDNN.pdf) | [Slides](https://yidiwang21.github.io/files/2021/RTSS21_AegisDNN_slides.pdf)]
 

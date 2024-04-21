@@ -114,6 +114,7 @@
 
 .author__name {
   margin: 0;
+  // text-align: center;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -143,6 +144,7 @@
 
 .author__bio {
   margin: 0;
+  font-size: $type-size-6;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -247,7 +249,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-4;
+    font-size: $type-size-6;
     text-decoration: none;
 
     &:hover {

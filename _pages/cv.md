@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
@@ -11,26 +11,26 @@ redirect_from:
 
 ---
 
-# Education
+## Education
 * Ph.D in Electrical and Computer Engineering, University of California Riverside, Sept 2019 - Jun 2023
   * Dissertation: Advancing Real-Time GPU Scheduling: Energy Efficiency and Preemption Strategies
   * Advisor: [Prof. Hyoseung Kim](https://intra.ece.ucr.edu/~hyoseung/)
 * M.S. in Electrical and Computer Engineering, University of California Riverside, Sept 2018 - Jun 2019
 * B.S. in Electrical Engineering, Huazhong University of Science and Technology, Sept 2014 - Jun 2018
 
-# Employment
-* Santa Clara University, Sept 2024 - Present
-  * Assistant Professor, Department of Computer Science and Engineering, Sept 2024 - Present
-* University of California, Riverside, Aug 2023 - Jul 2024
-  * Postdoc, Department of Electrical and Computer Engineering
+## Employment
+* Santa Clara University
+  * Assistant Professor, Department of Computer Science and Engineering, Starting from Sept 2024
+* University of California, Riverside
+  * Postdoc, Department of Electrical and Computer Engineering, Aug 2023 - Present
 
-# Service
+## Service
 
-## Technical Program Committee
+### Technical Program Committee
 
 * IEEE Real-Time and Embedded Technology and Applications Symposium, Brief Presentations (RTAS-BP), 2024 
 
-## Reviewer
+### Reviewer
 
 * Real-Time Systems Journal (RTS), 2023
 *	IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022 - 2023
