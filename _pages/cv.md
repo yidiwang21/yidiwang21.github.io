@@ -9,39 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Education
+* Ph.D in Electrical and Computer Engineering, University of California Riverside, Sept 2019 - Jun 2023
+  * Dissertation: Advancing Real-Time GPU Scheduling: Energy Efficiency and Preemption Strategies
+  * Advisor: [Prof. Hyoseung Kim](https://intra.ece.ucr.edu/~hyoseung/)
+* M.S. in Electrical and Computer Engineering, University of California Riverside, Sept 2018 - Jun 2019
+* B.S. in Electrical Engineering, Huazhong University of Science and Technology, Sept 2014 - Jun 2018
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Employment
+* Santa Clara University, Sept 2024 - Present
+  * Assistant Professor, Department of Computer Science and Engineering, Sept 2024 - Present
+* University of California, Riverside, Aug 2023 - Jul 2024
+  * Postdoc, Department of Electrical and Computer Engineering
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+# Service
+## Technical Program Committee
+* IEEE Real-Time and Embedded Technology and Applications Symposium, Brief Presentations (RTAS-BP), 2024 
+
+## Reviewer
+* Real-Time Systems Journal (RTS), 2023
+*	IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022 - 2023
+*	Transactions on Embedded Computing Systems (TECS), 2023
+*	ACM Transactions on Cyber-Physical Systems (TCPS), 2023
+*	IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
