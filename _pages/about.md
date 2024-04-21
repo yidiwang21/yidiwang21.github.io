@@ -7,24 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-Postdoc \
-Department of Electrical and Computer Engineering \
+Postdoc  
+Department of Electrical and Computer Engineering  
 University of California, Riverside 
 
-Incoming Assistant Professor \
-[Department of Computer Science and Engineering](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/) \
+Incoming Assistant Professor  
+[Department of Computer Science and Engineering](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/)  
 [Santa Clara University](https://www.scu.edu/)
 
-<!--Office: \-->
-Email: yidi.wang@email.ucr.edu
+<!--Office:  -->
+Email: yidi DOT wang AT email DOT ucr DOT edu
+
+---
 
 # About Me
-I will join the [Department of Computer Science and Engineering](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/) at [Santa Clara University](https://www.scu.edu/) as an Assistant Professor in Sept 2024. I received my Ph.D. in the Department of Electrical and Computer Engineering from University of California, Riverside in 2023. \
-My primary research interests are in the field of real-time embedded and cyber-physical systems. The core objective is to advance the design of responsive, predictable, and verifiable computing systems for tasks with dynamic timing constraints especially in resource limited environments.
+I will join the [Department of Computer Science and Engineering](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/) at [Santa Clara University](https://www.scu.edu/) as an Assistant Professor in Sept 2024. I received my Ph.D. in the Department of Electrical and Computer Engineering from University of California, Riverside in 2023.  
+During my time at UCR, I have several publications in premier conference in the field of real-time systems, with focus on real-time scheduling for GPU-accelerated applications. My primary research interests are in the field of real-time embedded and cyber-physical systems. The core objective is to advance the design of responsive, predictable, and verifiable computing systems for tasks with dynamic timing constraints especially in resource limited environments. 
 
 # To Work With Me
-<span style="color:red">I am looking for a PhD student highly interested in systems research, starting in Fall 2025.</span> Please be prepared to commit 4-5 years of hard work in research, and rewards may take time in this field. \
-Master/undergraduate students and summer interns are also welcome. To apply, please drop me an email with your CV and transcripts.
+<span style="color:red">I am looking for a PhD student highly interested in systems research, starting at Fall 2025.</span> Please be prepared to commit 4-5 years of hard work in research, and rewards may take time in this field. If you are still interested in this field, please drop me an email with title <u>"Prospective PhD Student - Fall 2025 - Your first name"</u>, and attach your CV, transcripts, and a writing sample (e.g. publication, thesis, report) if available.  
+Master, undergraduate students and summer interns are also welcome. To apply, please drop me an email with with title <u>"Prospective MS/UG/summer intern Student - Your first name"</u> including your CV and transcripts.
 
 # News
 - Mar 2024: I am an incoming Assistant Professor in CSE at SCU!
