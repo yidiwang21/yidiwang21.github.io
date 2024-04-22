@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="left" src="https://yidiwang21.github.io/images/IMG_4442.png" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px; margin-right: 20px;"/>
+<img align="left" src="https://yidiwang21.github.io/images/IMG_4442.png" alt="Photo" style="width: 220px; border-radius: 10px; padding: 16px 8px 8px 8px; margin-right: 40px;"/>
 Postdoc  
 [Department of Electrical and Computer Engineering](https://www.ece.ucr.edu/)  
 [University of California, Riverside](https://www.ucr.edu/)
@@ -15,8 +15,6 @@ Postdoc
 Incoming Assistant Professor  
 [Department of Computer Science and Engineering](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/)  
 [Santa Clara University](https://www.scu.edu/)
-
----
 
 <!--Office:  -->
 Email: yidi DOT wang AT ucr DOT edu  

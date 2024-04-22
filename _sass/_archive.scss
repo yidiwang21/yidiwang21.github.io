@@ -12,6 +12,7 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     float: left;
+    padding-left: 4em;
     // @include prefix(0.5 of 12);
   }
 
