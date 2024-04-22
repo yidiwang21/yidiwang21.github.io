@@ -22,9 +22,9 @@
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
 
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
+    // @include breakpoint($x-large) {
+    //   max-width: $x-large;
+    // }
 
     nav {
       z-index: 10;
@@ -53,7 +53,7 @@
 
   &--lg {
     padding-right: 2em;
-    // padding-left: 20em;
+    // padding-left: 4em;
     font-weight: 700;
   }
 }

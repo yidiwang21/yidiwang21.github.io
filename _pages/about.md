@@ -24,15 +24,15 @@ Email: yidi DOT wang AT ucr DOT edu
 
 ---
 
-# About Me
+## About Me
 I will join the [Department of Computer Science and Engineering](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/) at [Santa Clara University](https://www.scu.edu/) as an Assistant Professor in Sept 2024. I received my Ph.D. in the Department of Electrical and Computer Engineering from University of California, Riverside in 2023.  
 During my time at UCR, I have several publications in premier conference in the field of real-time systems, with focus on real-time scheduling for GPU-accelerated applications. My primary research interests are in the field of real-time embedded and cyber-physical systems. The core objective is to advance the design of responsive, predictable, and verifiable computing systems for tasks with dynamic timing constraints especially in resource limited environments. 
 
-# To Work With Me
+## To Work With Me
 <span style="color:red">I am looking for a PhD student highly interested in systems research, starting at Fall 2025.</span> Please be prepared to commit 4-5 years of hard work in research, and rewards may take time in this field. If you are still interested in this field, please drop me an email with title <u>"Prospective PhD Student - Fall 2025 - Your first name"</u>, and attach your CV, transcripts, and a writing sample (e.g. publication, thesis, report) if available.  
 Master's, undergraduate students and summer interns are also welcome. To apply, please drop me an email with with title <u>"Prospective MS/UG/summer intern Student - Your first name"</u> including your CV and transcripts.
 
-# News
+## News
 - Mar 2024: I am an incoming Assistant Professor in CSE at SCU!
 - Feb 2024: I am serving on the TPC for [RTAS@BP 2024](https://2024.rtas.org/call-for-papers-the-brief-presentations-track/).
 - Aug 2023: Started to work as a Postdoc at UCR.
