@@ -16,6 +16,9 @@ author_profile: false
 {% endfor %} -->
 
 ---
+
+## Peer-Reviewed Publications
+
 * <u>Yidi Wang</u>, Mohsen Karimi, and Hyoseung Kim.  
     **Towards Energy-Efficient Real-Time Scheduling of Heterogeneous Multi-GPU Systems.**  
     In Real-Time Systems Symposium (RTSS), 2022.  
@@ -50,3 +53,15 @@ author_profile: false
     **Work-in-Progress: Understanding the Effect of Kernel Scheduling on GPU Energy Consumption.**  
     In Brief Presentation Session of IEEE Real-Time Systems Symposium (RTSS), 2019.  
     [[Paper](https://yidiwang21.github.io/files/2019/rtss19wip-gpu)]
+
+## Preprints
+
+* <u>Yidi Wang</u>, Cong Liu, Daniel Wong and Hyoseung Kim.  
+**Unleashing the Power of Preemptive Priority-based Scheduling for Real-Time GPU Tasks.**  
+arXiv preprint arXiv:2401.16529  
+[[Paper](https://arxiv.org/abs/2401.16529)]
+
+* Mohsen Karimi, <u>Yidi Wang</u>, Youngbin Kim, Yoojin Lim, Hyoseung Kim.  
+**CARTOS: A Charging-Aware Real-Time Operating System for Intermittent Batteryless Devices.**  
+arXiv preprint arXiv:2311.07227  
+[[Paper](https://arxiv.org/abs/2311.07227)]
