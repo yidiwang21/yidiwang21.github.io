@@ -47,7 +47,7 @@ Master's, undergraduate students and summer interns are also welcome. To apply, 
 **Feel free to reach out to me for research discussions or potential collaborations—I am always open to new ideas and partnerships!**
 
 ## News
-- Mar 2024: I am an incoming Assistant Professor in CSE at SCU!
+- Mar 2024: I will be joining Santa Clara University as a Tenure-Track Assistant Professor in CSE starting in Fall 2024!
 - Feb 2024: I am serving on the TPC for [RTAS@BP 2024](https://2024.rtas.org/call-for-papers-the-brief-presentations-track/).
 - Aug 2023: Started to work as a Postdoc at UCR.
 - Jun 2023: I completed all requirements for the degree of Doctor of Philosophy in the field of Electrical Engineering at UCR.
