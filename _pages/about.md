@@ -47,6 +47,7 @@ Master's, undergraduate students and summer interns are also welcome. To apply, 
 **Feel free to reach out to me for research discussions or potential collaborations—I am always open to new ideas and partnerships!**
 
 ## News
+- May 2024: One paper will appear at [ECRTS 2024](https://www.ecrts.org/). This work provides a solution with minimal userspace code modification to enable GPU preemption, and it is also the first one to provide a response time analysis for the default GPU scheduling approach. Check it out: [[ECRTS24](https://yidiwang21.github.io/files/2024/ecrts24_gcaps_paper.pdf)].
 - Mar 2024: I will be joining Santa Clara University as a Tenure-Track Assistant Professor in CSE starting in Fall 2024!
 - Feb 2024: I am serving on the TPC for [RTAS@BP 2024](https://2024.rtas.org/call-for-papers-the-brief-presentations-track/).
 - Aug 2023: Started to work as a Postdoc at UCR.

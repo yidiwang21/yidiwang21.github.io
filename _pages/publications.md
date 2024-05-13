@@ -19,6 +19,11 @@ author_profile: false
 
 ## Peer-Reviewed Publications
 
+* <u>Yidi Wang</u>, Cong Liu, Daniel Wong, and Hyoseung Kim.  
+    **GCAPS: GPU Context-Aware Preemptive Priority-based Scheduling for Real-Time Tasks.**  
+    In Euromicro Conference on Real-Time Systems (ECRTS), 2024.  
+    [[Paper](https://yidiwang21.github.io/files/2024/ecrts24_gcaps_paper.pdf)]
+
 * <u>Yidi Wang</u>, Mohsen Karimi, and Hyoseung Kim.  
     **Towards Energy-Efficient Real-Time Scheduling of Heterogeneous Multi-GPU Systems.**  
     In Real-Time Systems Symposium (RTSS), 2022.  
