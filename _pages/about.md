@@ -31,9 +31,9 @@ During my time at UCR, I have several publications in premier conference in the 
 
 For my research style, it spans from system implementation, including developing novel scheduling algorithms in practical systems across the whole software stack, to theoretical analysis including formulating mathematical models for system analysis.
 
-So far, my research has mainly focused on addressing the challenges of integrating GPUs in real-time scheduling where tasks have stringent timing requirements. They covers several aspects: (i) non-deterministic GPU behaviors, (ii) underutilized computing resources, (iii) scheduling for tasks having varied arrival patterns with constrained deadlines, and (iv) power management in GPU platforms [[Preprint24a](https://arxiv.org/abs/2401.16529), [RTSS22](https://yidiwang21.github.io/files/2022/RTSS22_sBEET-mg.pdf), [RTSS22@Work](https://yidiwang21.github.io/files/2022/RTSSWork22_paper.pdf), [RTSS21](https://yidiwang21.github.io/files/2021/RTSS21_sBEET.pdf), [RTSS19-Wip](https://yidiwang21.github.io/files/2019/rtss19wip-gpu)].
+So far, my research has mainly focused on addressing the challenges of integrating GPUs in real-time scheduling where tasks have stringent timing requirements. They covers several aspects: (i) non-deterministic GPU behaviors, (ii) underutilized computing resources, (iii) scheduling for tasks having varied arrival patterns with constrained deadlines, and (iv) power management in GPU platforms [[ECRTS24](../files/2024/ecrts24_gcaps_paper.pdf), [Preprint24a](https://arxiv.org/abs/2401.16529), [RTSS22](../files/2022/RTSS22_sBEET-mg.pdf), [RTSS22@Work](../files/2022/RTSSWork22_paper.pdf), [RTSS21](../files/2021/RTSS21_sBEET.pdf), [RTSS19-Wip](../files/2019/rtss19wip-gpu)].
 
-Besides, I also work on ensuring the reliable system operation on intermittently-powered batteryless devices [[Preprint24b](https://arxiv.org/abs/2311.07227), [RTCSA22](https://yidiwang21.github.io/files/2022/RTCSA22_AoI.pdf), [IoTJ21](https://yidiwang21.github.io/files/2021/iotj2021-ipd.pdf)], and reliable system support for intelligent applications [[RTSS21b](https://yidiwang21.github.io/files/2021/RTSS21_AegisDNN.pdf)].
+Besides, I also work on ensuring the reliable system operation on intermittently-powered batteryless devices [[Preprint24b](https://arxiv.org/abs/2311.07227), [RTCSA22](../files/2022/RTCSA22_AoI.pdf), [IoTJ21](../files/2021/iotj2021-ipd.pdf)], and reliable system support for intelligent applications [[RTSS21b](../files/2021/RTSS21_AegisDNN.pdf)].
 
 Built upon these, currently my research interests include:
 * Efficient scheduling for LLMs on edge devices
@@ -47,7 +47,7 @@ Master's, undergraduate students and summer interns are also welcome. To apply, 
 **Feel free to reach out to me for research discussions or potential collaborations—I am always open to new ideas and partnerships!**
 
 ## News
-- May 2024: One paper will appear at [ECRTS 2024](https://www.ecrts.org/). This work provides a solution with minimal userspace code modification to enable GPU preemption, and it is also the first one to provide a response time analysis for the default GPU scheduling approach. Check it out: [[ECRTS24](https://yidiwang21.github.io/files/2024/ecrts24_gcaps_paper.pdf)].
+- May 2024: One paper will appear at [ECRTS 2024](https://www.ecrts.org/). This work provides a solution with minimal userspace code modification to enable GPU preemption, and it is also the first one to provide a response time analysis for the default GPU scheduling approach. Check it out: [[ECRTS24](../files/2024/ecrts24_gcaps_paper.pdf)].
 - Mar 2024: I will be joining Santa Clara University as a Tenure-Track Assistant Professor in CSE starting in Fall 2024!
 - Feb 2024: I am serving on the TPC for [RTAS@BP 2024](https://2024.rtas.org/call-for-papers-the-brief-presentations-track/).
 - Aug 2023: Started to work as a Postdoc at UCR.
