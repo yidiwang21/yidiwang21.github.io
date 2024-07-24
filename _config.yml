@@ -21,7 +21,7 @@ repository               : "yidiwang21/yidiwang21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "IMG_4442.png"
+  avatar           : # "profile_mid.png"
   name             : "Yidi Wang"
   pronouns         : "she/her"  
   bio              : "Postdoc at UCR; Incoming Assistant Professor at SCU"
