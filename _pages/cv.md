@@ -32,10 +32,11 @@ redirect_from:
 
 ### Reviewer
 
-* Real-Time Systems Journal (RTS), 2023
+* Transactions on Computers (TC), 2024
+* Real-Time Systems Journal (RTS), 2023 - 2024
 *	IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022 - 2023
-*	Transactions on Embedded Computing Systems (TECS), 2023
-*	ACM Transactions on Cyber-Physical Systems (TCPS), 2023
+*	Transactions on Embedded Computing Systems (TECS), 2023 - 2024
+*	ACM Transactions on Cyber-Physical Systems (TCPS), 2023 - 2024
 *	IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023
 
 <!-- Skills
