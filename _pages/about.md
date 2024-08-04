@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yidi Wang"
+title: ""
 author_profile: false
 redirect_from: 
   - /about/
@@ -9,17 +9,20 @@ redirect_from:
 
 <!-- <img align="left" src="https://yidiwang21.github.io/images/profile_mid.png" alt="Photo" style="width: 220px; border-radius: 10px; padding: 16px 8px 8px 8px; margin-right: 40px;"/> -->
 <img align="left" src="../images/profile_mid.png" alt="Photo" style="width: 220px; border-radius: 10px; padding: 16px 8px 8px 8px; margin-right: 40px;"/>
-Postdoc  
+<!-- Postdoc  
 [Department of Electrical and Computer Engineering](https://www.ece.ucr.edu/)  
-[University of California, Riverside](https://www.ucr.edu/)
+[University of California, Riverside](https://www.ucr.edu/) -->
 
+## Yidi Wang
 Incoming Assistant Professor  
 [Department of Computer Science and Engineering](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/)  
 [Santa Clara University](https://www.scu.edu/)
 
 <!--Office:  -->
-Email: yidi DOT wang AT ucr DOT edu  
+Email: ywang49 AT scu DOT edu  
 [[Google Scholar](https://scholar.google.com/citations?user=RxiBuAgAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0003-3334-4662) | [LinkedIn](https://www.linkedin.com/in/yidi-wang-315649119/)]
+
+<br/><br/>
 
 ---
 
@@ -41,11 +44,11 @@ Built upon these, currently my research interests include:
 * Enabling ML for decision-making in operating systems
 * Real-time scheduling for heterogeneous platforms
 
-## To Work With Me
-<span style="color:red">I am looking for a PhD student highly interested in systems research, starting at Fall 2025.</span> Please be prepared to commit 4-5 years of hard work in research, and rewards may take time in this field. If you are still interested in this field, please drop me an email with title <u>"Prospective PhD Student - Fall 2025 - Your first name"</u>, and attach your CV, transcripts, and a writing sample (e.g. publication, thesis, report) if available.  
-Master's, undergraduate students and summer interns are also welcome. To apply, please drop me an email with with title <u>"Prospective MS/UG/summer intern Student - Your first name"</u> including your CV and transcripts.
+**Feel free to reach out to me for research discussions or potential collaborations — I am always open to new ideas and partnerships!**
 
-**Feel free to reach out to me for research discussions or potential collaborations—I am always open to new ideas and partnerships!**
+## Prospective Students
+<span style="color:red">I am looking for a PhD student highly interested in systems research, starting at Fall 2025, and I am also looking for multiple Master's, undergraduate students to work with me.</span> If you are interested, please drop me an email with title <u>"Prospective PhD/MS/UG Student - Your name"</u>, and attach your CV and transcripts.
+
 
 ## News
 - May 2024: One paper will appear at [ECRTS 2024](https://www.ecrts.org/). This work provides a solution with minimal userspace code modification to enable GPU preemption, and it is also the first one to provide a response time analysis for the default GPU scheduling approach. Check it out: [[ECRTS24](../files/2024/ecrts24_gcaps_paper.pdf)].
