@@ -14,15 +14,17 @@ redirect_from:
 [University of California, Riverside](https://www.ucr.edu/) -->
 
 ## Yidi Wang
-Incoming Assistant Professor  
+Assistant Professor  
 [Department of Computer Science and Engineering](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/)  
 [Santa Clara University](https://www.scu.edu/)
 
 <!--Office:  -->
+Office: Bergin 209  
+Work Phone: 408-551-3818  
 Email: ywang49 AT scu DOT edu  
 [[Google Scholar](https://scholar.google.com/citations?user=RxiBuAgAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0003-3334-4662) | [LinkedIn](https://www.linkedin.com/in/yidi-wang-315649119/)]
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 ---
 

@@ -20,7 +20,7 @@ redirect_from:
 
 ## Employment
 * Santa Clara University
-  * Assistant Professor, Department of Computer Science and Engineering, Starting from Sept 2024
+  * Assistant Professor, Department of Computer Science and Engineering, Sept 2024 - Present
 * University of California, Riverside
   * Postdoc, Department of Electrical and Computer Engineering, Aug 2023 - Jul 2024
 
