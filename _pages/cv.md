@@ -28,6 +28,7 @@ redirect_from:
 
 ### Technical Program Committee
 
+* IEEE Real-Time Systems Symposium, Brief Presentations (RTSS-BP), 2024 
 * IEEE Real-Time and Embedded Technology and Applications Symposium, Brief Presentations (RTAS-BP), 2024 
 
 ### Reviewer
