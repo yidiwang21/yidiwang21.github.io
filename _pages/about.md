@@ -29,7 +29,7 @@ Email: ywang49 AT scu DOT edu
 ---
 
 ## About Me
-I will join the [Department of Computer Science and Engineering](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/) at [Santa Clara University](https://www.scu.edu/) as an Assistant Professor in Sept 2024. I received my Ph.D. in the Department of Electrical and Computer Engineering from University of California, Riverside in 2023.  
+I am an an Assistant Professor in [Department of Computer Science and Engineering](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/) at [Santa Clara University](https://www.scu.edu/). I received my Ph.D. in the Department of Electrical and Computer Engineering from University of California, Riverside in 2023.  
 During my time at UCR, I have several publications in premier conference in the field of real-time systems, with focus on real-time scheduling for GPU-accelerated applications. My primary research interests are in the field of real-time embedded and cyber-physical systems. 
 
 ## Research Interests
@@ -49,10 +49,12 @@ Built upon these, currently my research interests include:
 **Feel free to reach out to me for research discussions or potential collaborations — I am always open to new ideas and partnerships!**
 
 ## Prospective Students
-<span style="color:red">I am looking for a PhD student highly interested in systems research, starting at Fall 2025, and I am also looking for multiple Master's, undergraduate students to work with me.</span> If you are interested, please drop me an email with title <u>"Prospective PhD/MS/UG Student - Your name"</u>, and attach your CV and transcripts.
+<span style="color:red">I am looking for a PhD student highly interested in systems research, starting at Fall 2025. I am also looking for multiple Master's, undergraduate students to work with me.</span> If you are interested, please drop me an email with title <u>"Prospective PhD/MS/UG Student - Your name"</u>, and attach your CV and transcripts.
 
 
 ## News
+- Sept 2024: I am serving on the TPC for RTSS@BP 2024.
+- Sept 2024: Started to work as an assistant professor at SCU!
 - May 2024: One paper will appear at [ECRTS 2024](https://www.ecrts.org/). This work provides a solution with minimal userspace code modification to enable GPU preemption, and it is also the first one to provide a response time analysis for the default GPU scheduling approach. Check it out: [[ECRTS24](../files/2024/ecrts24_gcaps_paper.pdf)].
 - Mar 2024: I will be joining Santa Clara University as a Tenure-Track Assistant Professor in CSE starting in Fall 2024!
 - Feb 2024: I am serving on the TPC for [RTAS@BP 2024](https://2024.rtas.org/call-for-papers-the-brief-presentations-track/).
