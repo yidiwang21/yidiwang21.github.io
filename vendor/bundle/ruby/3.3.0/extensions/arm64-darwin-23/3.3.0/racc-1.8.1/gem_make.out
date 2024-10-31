@@ -1,0 +1,18 @@
+current directory: /Users/ywang49/Files/yidiwang21.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/ywang49/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/ywang49/Files/yidiwang21.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241031-53224-1mi3mk sitelibdir\=./.gem.20241031-53224-1mi3mk clean
+
+current directory: /Users/ywang49/Files/yidiwang21.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241031-53224-1mi3mk sitelibdir\=./.gem.20241031-53224-1mi3mk
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/ywang49/Files/yidiwang21.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241031-53224-1mi3mk sitelibdir\=./.gem.20241031-53224-1mi3mk install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20241031-53224-1mi3mk/racc
+
+current directory: /Users/ywang49/Files/yidiwang21.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241031-53224-1mi3mk sitelibdir\=./.gem.20241031-53224-1mi3mk clean

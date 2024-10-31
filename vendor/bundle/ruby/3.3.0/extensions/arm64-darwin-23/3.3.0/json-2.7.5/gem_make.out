@@ -1,0 +1,21 @@
+current directory: /Users/ywang49/Files/yidiwang21.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.5/ext/json/ext/parser
+/Users/ywang49/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+checking for rb_enc_raise() in ruby.h... yes
+checking for rb_enc_interned_str() in ruby.h... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/ywang49/Files/yidiwang21.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.5/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20241031-53224-l06lwj sitelibdir\=./.gem.20241031-53224-l06lwj clean
+
+current directory: /Users/ywang49/Files/yidiwang21.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.5/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20241031-53224-l06lwj sitelibdir\=./.gem.20241031-53224-l06lwj
+compiling parser.c
+linking shared-object json/ext/parser.bundle
+
+current directory: /Users/ywang49/Files/yidiwang21.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.5/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20241031-53224-l06lwj sitelibdir\=./.gem.20241031-53224-l06lwj install
+/usr/bin/install -c -m 0755 parser.bundle ./.gem.20241031-53224-l06lwj/json/ext
+
+current directory: /Users/ywang49/Files/yidiwang21.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.5/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20241031-53224-l06lwj sitelibdir\=./.gem.20241031-53224-l06lwj clean
