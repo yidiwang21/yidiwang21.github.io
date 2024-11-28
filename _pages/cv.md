@@ -11,6 +11,8 @@ redirect_from:
 
 ---
 
+[Download My CV](https://github.com/yidiwang21/Yidi-Wang-CV/blob/main/Yidi-Wang-CV.pdf)
+
 ## Education
 * Ph.D in Electrical and Computer Engineering, University of California Riverside, Sept 2019 - Jun 2023
   * Dissertation: Advancing Real-Time GPU Scheduling: Energy Efficiency and Preemption Strategies
