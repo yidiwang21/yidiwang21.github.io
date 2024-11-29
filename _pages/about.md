@@ -39,6 +39,7 @@ Feel free to reach out to me for research discussions or potential collaboration
 Please note that a Master's degree is a prerequisite for admission to the PhD program in the department). 
 I am also looking for multiple Master's, undergraduate students to work with me.</span> If you are interested, please drop me an email with title <u>"Prospective PhD/MS/UG Student - Your name"</u>, and attach your CV and transcripts.
 
+[Link to SCU Computer Science and Engineering Graduate Programs](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/graduate/)
 
 ## News
 - Sept 2024: I am serving on the TPC for RTSS@BP 2024.
