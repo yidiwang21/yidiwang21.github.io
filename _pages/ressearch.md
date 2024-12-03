@@ -9,6 +9,8 @@ author_profile: false
 
 ---
 
+<img align="center" src="../images/Lab_Logo_rectangle.png" alt="Photo" style="width: 1200px; border-radius: 10px; margin-right: 40px;"/>
+
 ## Research Interests
 <span style="color:blue; font-weight:bold;">
 My core objective is to advance the design of responsive, predictable, and verifiable computing systems for tasks with dynamic timing constraints especially in resource limited environments.
