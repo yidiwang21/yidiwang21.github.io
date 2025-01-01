@@ -12,7 +12,7 @@ author_profile: false
 * CSEN (COEN) 20: Introduction to Embedded Systems
 	* Fall 2024
 * CSEN (COEN) 283: Operating Systems
-	* Winter 2024, Spring 2024
+	* Winter 2025, Spring 2025
 
 
 ## University of California, Riverside
