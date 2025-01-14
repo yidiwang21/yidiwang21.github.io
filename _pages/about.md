@@ -35,7 +35,7 @@ During my time at UCR, I have several publications in premier conference in the 
 Feel free to reach out to me for research discussions or potential collaborations — I am always open to new ideas and partnerships!
 
 ## Prospective Students
-<span style="color:red">I am looking for a PhD student highly interested in systems research, starting at Fall 2025 (
+<span style="color:red">I am looking for a PhD student highly interested in systems research, starting at Fall 2025 or Fall 2026 (
 Please note that a Master's degree is a prerequisite for admission to the PhD program in the department). 
 I am also looking for multiple Master's, undergraduate students to work with me.</span> If you are interested, please drop me an email with title <u>"Prospective PhD/MS/UG Student - Your name"</u>, and attach your CV and transcripts.
 
