@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- <img align="left" src="https://yidiwang21.github.io/images/profile_mid.png" alt="Photo" style="width: 220px; border-radius: 10px; padding: 16px 8px 8px 8px; margin-right: 40px;"/> -->
-<img align="left" src="../images/IMG_0108 copy.jpg" alt="Photo" style="width: 220px; border-radius: 10px; padding: 16px 8px 8px 8px; margin-right: 40px;"/>
+<img align="left" src="../images/IMG_0944.jpeg" alt="Photo" style="width: 220px; border-radius: 10px; padding: 16px 8px 8px 8px; margin-right: 40px;"/>
 <!-- Postdoc  
 [Department of Electrical and Computer Engineering](https://www.ece.ucr.edu/)  
 [University of California, Riverside](https://www.ucr.edu/) -->
