@@ -23,6 +23,10 @@ So far, my research has mainly focused on addressing the challenges of integrati
 Besides, I also work on ensuring the reliable system operation on intermittently-powered batteryless devices [[Preprint24b](https://arxiv.org/abs/2311.07227), [RTCSA22](../files/2022/RTCSA22_AoI.pdf), [IoTJ21](../files/2021/iotj2021-ipd.pdf)], and reliable system support for intelligent applications [[RTSS21b](../files/2021/RTSS21_AegisDNN.pdf)].
 
 Built upon these, currently my research interests include:
-* Resource Allocation for 6G networks
 * System software support for heterogeneous platforms
 * ML-based scheduler design
+
+## Students
+* Haopeng Gao (MS; W25 - Present)
+* Yinmingren Fu (MS; W25 - Present)
+* Dhruv Patel (UG; W25 - Present)
