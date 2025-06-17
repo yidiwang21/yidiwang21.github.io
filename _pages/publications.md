@@ -19,6 +19,11 @@ author_profile: false
 
 ## Peer-Reviewed Publications
 
+* Ryan Quach, <u>Yidi Wang</u>, Ali Jahanshahi, Daniel Wong, and Hyoseung Kim.  
+    **ECLIP: Energy-efficient and Practical Co-Location of ML Inference on Spatially Partitioned GPUs.**  
+    In IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), 2025.  
+    [[Paper](../files/2025/islped25_eclip_paper.pdf.pdf)]
+
 * <u>Yidi Wang</u>, Cong Liu, Daniel Wong, and Hyoseung Kim.  
     **GCAPS: GPU Context-Aware Preemptive Priority-based Scheduling for Real-Time Tasks.**  
     In Euromicro Conference on Real-Time Systems (ECRTS), 2024.  
@@ -57,7 +62,7 @@ author_profile: false
 * <u>Yidi Wang</u> and Hyoseung Kim.  
     **Work-in-Progress: Understanding the Effect of Kernel Scheduling on GPU Energy Consumption.**  
     In Brief Presentation Session of IEEE Real-Time Systems Symposium (RTSS), 2019.  
-    [[Paper](../files/2019/rtss19wip-gpu)]
+    [[Paper](../files/2019/rtss19wip-gpu.pdf)]
 
 ## Preprints
 
