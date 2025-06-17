@@ -42,6 +42,7 @@ I am also looking for multiple Master's, undergraduate students to work with me.
 [Link to SCU Computer Science and Engineering Graduate Programs](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/graduate/)
 
 ## News
+- May 2025: I am serving on the TPC for RTSS 2025.
 - Sept 2024: I am serving on the TPC for RTSS@BP 2024.
 - Sept 2024: Started to work as an assistant professor at SCU!
 - May 2024: One paper will appear at [ECRTS 2024](https://www.ecrts.org/). This work provides a solution with minimal userspace code modification to enable GPU preemption, and it is also the first one to provide a response time analysis for the default GPU scheduling approach. Check it out: [[ECRTS24](../files/2024/ecrts24_gcaps_paper.pdf)].
