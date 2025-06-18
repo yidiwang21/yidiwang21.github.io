@@ -25,6 +25,10 @@ Besides, I also work on ensuring the reliable system operation on intermittently
 Built upon these, currently my research interests include:
 * System software support for heterogeneous platforms
 * ML-based scheduler design
+* Real-time support for LLM Agentic Systems
+
+## Research Keywords
+Real-Time Systems, Cyber-Physical Systems, Embedded Systems, GPUs, Autonomous Systems, Edge Serving Systems, ML Serving Systems, Energy-Efficiency, Improved Analysis
 
 ## Students
 * Haopeng Gao (MS; W25 - Present)
