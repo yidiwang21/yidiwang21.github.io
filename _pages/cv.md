@@ -30,15 +30,18 @@ redirect_from:
 
 ### Technical Program Committee
 
+* IEEE Real-Time Systems Symposium, 2025 
 * IEEE Real-Time Systems Symposium, Brief Presentations (RTSS-BP), 2024 
 * IEEE Real-Time and Embedded Technology and Applications Symposium, Brief Presentations (RTAS-BP), 2024 
 
 ### Reviewer
 
-* Transactions on Computers (TC), 2024
+* ACM Transactions on Architecture and Code Optimization (TACO), 2025
+* ACM Transaction on Internet of Things (TIOT), 2025
+* IEEE Transactions on Computers (TC), 2024
 * Real-Time Systems Journal (RTS), 2023 - 2024
 *	IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022 - 2023
-*	Transactions on Embedded Computing Systems (TECS), 2023 - 2024
+*	ACM Transactions on Embedded Computing Systems (TECS), 2023 - 2024
 *	ACM Transactions on Cyber-Physical Systems (TCPS), 2023 - 2024
 *	IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023
 
