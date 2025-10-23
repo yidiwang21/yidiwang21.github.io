@@ -15,9 +15,19 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %} -->
 
+Note: The names of our lab members are underlined.
+
 ---
 
 ## Peer-Reviewed Publications
+
+* <u>Haopeng Gao</u>, Hyunjong Choi and <u>Yidi Wang</u>.  
+    **Work-in-Progress: Modeling and Analysis of Inference Latency on USB Edge TPUs.**  
+    In Brief Presentation Session of IEEE Real-Time Systems Symposium (RTSS), 2025. (just accepted)  
+
+* Marcus Chen, Pascal Reich, <u>Yidi Wang</u> and Hyunjong Choi.  
+    **Work-in-Progress: A Practical Linux Framework for Weakly-Hard Tasks with Constant Bandwidth Server.**  
+    In Brief Presentation Session of IEEE Real-Time Systems Symposium (RTSS), 2025. (just accepted)  
 
 * Ryan Quach, <u>Yidi Wang</u>, Ali Jahanshahi, Daniel Wong, and Hyoseung Kim.  
     **ECLIP: Energy-efficient and Practical Co-Location of ML Inference on Spatially Partitioned GPUs.**  

@@ -46,6 +46,8 @@ Please drop me an email with title <u>"Prospective PhD/MS/UG Student - Your name
 [Link to SCU Computer Science and Engineering Graduate Programs](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/graduate/)
 
 ## News
+- Oct 2025: Two WiP papers with students as the first author are accepted to RTSS@BP 2025.
+- Oct 2025: I am serving on the TPC for RTSS@BP 2025.
 - May 2025: I am serving on the TPC for RTSS 2025.
 - Sept 2024: I am serving on the TPC for RTSS@BP 2024.
 - Sept 2024: Started to work as an assistant professor at SCU!
