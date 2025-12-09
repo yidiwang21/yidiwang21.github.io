@@ -30,6 +30,7 @@ redirect_from:
 
 ### Technical Program Committee
 
+* ACM/IEEE Design Automation Conference (DAC), 2026
 * IEEE Real-Time Systems Symposium, Brief Presentations (RTSS-BP), 2025 
 * IEEE Real-Time Systems Symposium, 2025 
 * IEEE Real-Time Systems Symposium, Brief Presentations (RTSS-BP), 2024 
