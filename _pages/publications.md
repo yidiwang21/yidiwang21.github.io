@@ -21,6 +21,11 @@ Note: The names of our lab members are underlined.
 
 ## Peer-Reviewed Publications
 
+* Mohsen Karimi, <u>Yidi Wang</u>, Youngbin Kim, Yoojin Lim, Hyoseung Kim.  
+    **CARTOS: A Charging-Aware Real-Time Operating System for Intermittent Batteryless Devices.**  
+    In IEEE Transactions on Emerging Topics in Computing (TETC), 2025. (just accepted)  
+    <!-- [[Paper](https://arxiv.org/abs/2311.07227)] -->
+
 * <u>Haopeng Gao</u>, Hyunjong Choi and <u>Yidi Wang</u>.  
     **Work-in-Progress: Modeling and Analysis of Inference Latency on USB Edge TPUs.**  
     In Brief Presentation Session of IEEE Real-Time Systems Symposium (RTSS), 2025. (just accepted)  
@@ -66,7 +71,7 @@ Note: The names of our lab members are underlined.
 
 * Mohsen Karimi, Hyunjong Choi, <u>Yidi Wang</u>, Yecheng Xiang, Hyoseung Kim.  
     **Real-Time Task Scheduling on Intermittently Powered Batteryless Devices.**  
-    In IEEE Internet of Things Journal, 2021.  
+    In IEEE Internet of Things Journal (IOTJ), 2021.  
     [[Publisher](https://ieeexplore.ieee.org/document/9378771) | [Paper](../files/2021/iotj2021-ipd.pdf)]
 
 * <u>Yidi Wang</u> and Hyoseung Kim.  
@@ -80,8 +85,3 @@ Note: The names of our lab members are underlined.
 **Unleashing the Power of Preemptive Priority-based Scheduling for Real-Time GPU Tasks.**  
 arXiv preprint arXiv:2401.16529  
 [[Paper](https://arxiv.org/abs/2401.16529)]
-
-* Mohsen Karimi, <u>Yidi Wang</u>, Youngbin Kim, Yoojin Lim, Hyoseung Kim.  
-**CARTOS: A Charging-Aware Real-Time Operating System for Intermittent Batteryless Devices.**  
-arXiv preprint arXiv:2311.07227  
-[[Paper](https://arxiv.org/abs/2311.07227)]
