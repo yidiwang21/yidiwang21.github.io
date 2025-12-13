@@ -28,16 +28,18 @@ Note: The names of our lab members are underlined.
 
 * <u>Haopeng Gao</u>, Hyunjong Choi and <u>Yidi Wang</u>.  
     **Work-in-Progress: Modeling and Analysis of Inference Latency on USB Edge TPUs.**  
-    In Brief Presentation Session of IEEE Real-Time Systems Symposium (RTSS), 2025. (just accepted)  
+    In Brief Presentation Session of IEEE Real-Time Systems Symposium (RTSS), 2025.  
+    [[Paper](../files/2025/rtss2025wip_tpu_paper.pdf) | [Source Code](https://github.com/raiselab-scu/tpu-usbmon-analysis)]
 
 * Marcus Chen, Pascal Reich, <u>Yidi Wang</u> and Hyunjong Choi.  
     **Work-in-Progress: A Practical Linux Framework for Weakly-Hard Tasks with Constant Bandwidth Server.**  
-    In Brief Presentation Session of IEEE Real-Time Systems Symposium (RTSS), 2025. (just accepted)  
+    In Brief Presentation Session of IEEE Real-Time Systems Symposium (RTSS), 2025.
+    [[Paper](../files/2025/rtss2025wip_weaklyhard_paper.pdf)]
 
 * Ryan Quach, <u>Yidi Wang</u>, Ali Jahanshahi, Daniel Wong, and Hyoseung Kim.  
     **ECLIP: Energy-efficient and Practical Co-Location of ML Inference on Spatially Partitioned GPUs.**  
     In IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), 2025.  
-    [[Paper](../files/2025/islped25_eclip_paper.pdf.pdf)]
+    [[Paper](../files/2025/islped25_eclip_paper.pdf)]
 
 * <u>Yidi Wang</u>, Cong Liu, Daniel Wong, and Hyoseung Kim.  
     **GCAPS: GPU Context-Aware Preemptive Priority-based Scheduling for Real-Time Tasks.**  
@@ -46,7 +48,7 @@ Note: The names of our lab members are underlined.
 
 * <u>Yidi Wang</u>, Mohsen Karimi, and Hyoseung Kim.  
     **Towards Energy-Efficient Real-Time Scheduling of Heterogeneous Multi-GPU Systems.**  
-    In Real-Time Systems Symposium (RTSS), 2022.  
+    In IEEE Real-Time Systems Symposium (RTSS), 2022.  
     [[Paper](../files/2022/RTSS22_sBEET-mg.pdf) | [Slides](../files/2022/RTSS22_sBEET-mg_slides.pdf) | [Source Code](https://github.com/rtenlab/sBEET-mg)]
 
 * Mohsen Karimi, <u>Yidi Wang</u>, and Hyoseung Kim.  
@@ -61,12 +63,12 @@ Note: The names of our lab members are underlined.
 
 * <u>Yidi Wang</u>, Mohsen Karimi, Yecheng Xiang, and Hyoseung Kim.  
     **Balancing Energy Efficiency and Real-Time Performance in GPU Scheduling.**  
-    In Real-Time Systems Symposium (RTSS), 2021.  
+    In IEEE Real-Time Systems Symposium (RTSS), 2021.  
     [[Paper](../files/2021/RTSS21_sBEET.pdf) | [Slides](../files/2021/RTSS21_sBEET_slides.pdf)]
 
 * Yecheng Xiang, <u>Yidi Wang</u>, Hyunjong Choi, Mohsen Karimi and Hyoseung Kim.  
     **AegisDNN: Dependable and Timely Execution of DNN Tasks with SGX.**  
-    In Real-Time Systems Symposium (RTSS), 2021.  
+    In IEEE Real-Time Systems Symposium (RTSS), 2021.  
     [[Paper](../files/2021/RTSS21_AegisDNN.pdf) | [Slides](../files/2021/RTSS21_AegisDNN_slides.pdf)]
 
 * Mohsen Karimi, Hyunjong Choi, <u>Yidi Wang</u>, Yecheng Xiang, Hyoseung Kim.  
