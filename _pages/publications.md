@@ -33,13 +33,13 @@ Note: The names of our lab members are underlined.
 
 * Marcus Chen, Pascal Reich, <u>Yidi Wang</u> and Hyunjong Choi.  
     **Work-in-Progress: A Practical Linux Framework for Weakly-Hard Tasks with Constant Bandwidth Server.**  
-    In Brief Presentation Session of IEEE Real-Time Systems Symposium (RTSS), 2025.
+    In Brief Presentation Session of IEEE Real-Time Systems Symposium (RTSS), 2025.  
     [[Paper](../files/2025/rtss2025wip_weaklyhard_paper.pdf)]
 
 * Ryan Quach, <u>Yidi Wang</u>, Ali Jahanshahi, Daniel Wong, and Hyoseung Kim.  
     **ECLIP: Energy-efficient and Practical Co-Location of ML Inference on Spatially Partitioned GPUs.**  
     In IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), 2025.  
-    [[Paper](../files/2025/islped25_eclip_paper.pdf)]
+    [[Paper](../files/2025/islped25_eclip_paper.pdf) | [Slides](../files/2025/islped25_eclip_slides.pdf)]
 
 * <u>Yidi Wang</u>, Cong Liu, Daniel Wong, and Hyoseung Kim.  
     **GCAPS: GPU Context-Aware Preemptive Priority-based Scheduling for Real-Time Tasks.**  
