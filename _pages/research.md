@@ -13,6 +13,7 @@ author_profile: false
 
 ## Research Interests
 <span style="color:blue; font-weight:bold;">
+I am the PI of Real-Time Autonomous and Intelligent Systems (RAISE) Lab.  
 My core objective is to advance the design of responsive, predictable, and verifiable computing systems for tasks with dynamic timing constraints especially in resource limited environments.
 </span>
 
