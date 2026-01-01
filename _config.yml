@@ -12,7 +12,8 @@ title                    : "Yidi Wang, Ph.D."
 title_separator          : "-"
 name                     : &name "Yidi Wang"
 description              : &description "Yidi Wang's Academic Website"
-url                      : https://yidiwang21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : https://yidiwang21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yidiwang.net
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yidiwang21/yidiwang21.github.io"
 
