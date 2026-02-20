@@ -38,6 +38,7 @@ redirect_from:
 
 ### Reviewer
 
+* NSF Proposal Review Panel, 2026
 * ACM Transactions on Architecture and Code Optimization (TACO), 2025
 * ACM Transaction on Internet of Things (TIOT), 2025
 * IEEE Transactions on Computers (TC), 2024
