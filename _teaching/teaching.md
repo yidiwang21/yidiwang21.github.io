@@ -9,10 +9,10 @@ author_profile: false
 
 ---
 ## Santa Clara University
-* CSEN (COEN) 20: Introduction to Embedded Systems
-	* Fall 2024
 * CSEN (COEN) 283: Operating Systems
 	* Winter 2025, Spring 2025, Fall 2025
+* CSEN (COEN) 20: Introduction to Embedded Systems
+	* Fall 2024, Winter 2026
 
 
 ## University of California, Riverside

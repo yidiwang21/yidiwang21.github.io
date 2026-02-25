@@ -33,6 +33,10 @@ During my time at UCR, I have several publications in premier conference in the 
 
 Feel free to reach out to me for research discussions or potential collaborations — I am always open to new ideas and partnerships!
 
+## Office Hours (Winter 2026)
+* Tuesday 3:30 PM - 4:30 PM
+* Thursday 2:00 PM - 3:00 PM
+
 ## Prospective Students
 <!-- <span style="color:red">I am looking for a PhD student highly interested in systems research, starting at Fall 2026</span> (
 Please note that a Master's degree is a prerequisite for admission to the PhD program in the department). I am also looking for multiple Master's, undergraduate students to work with me. -->
@@ -41,6 +45,7 @@ If you are interested in working with me:
 + <span style="color:red">For external students: </span>
 Please drop me an email with title <u>"Prospective PhD/MS/UG Student - Your name"</u>, and attach your CV and transcripts. The emails without this title format will be ignored.
 + <span style="color:red">For SCU students: </span>If you are an SCU student, please drop me an email using your **scu email** with title <u>"Potential PhD/MS/UG Student - Your name - SCU"</u>, and attach your CV and transcripts. The emails without this title format will be ignored.
+  + Note: for current SCU students, if you want to do research with me, you must register CSEN 193 (for undergraduate students), or CSEN 493/497/498 (for graduate students); unless I make an exception for you.
 
 <!-- [Link to SCU Computer Science and Engineering Graduate Programs](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/graduate/) -->
 

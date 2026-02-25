@@ -37,4 +37,6 @@ Real-Time Systems, Cyber-Physical Systems, Embedded Systems, GPUs, Autonomous Sy
 ## Students
 * Haopeng Gao (MS; W25 - Present)
 * Yinmingren Fu (MS; W25 - Present)
+* Rawan Bekheet (MS; W26 - Present)
 * Dhruv Patel (UG; W25 - Present)
+* Nolan Jue (UG; F25 - Present)
