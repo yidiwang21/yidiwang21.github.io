@@ -25,11 +25,8 @@ Besides, I also work on ensuring the reliable system operation on intermittently
 
 **Built upon these, currently my research interests include:**
 * System software support for heterogeneous platforms at edge or device
-* Real-time support for edge LLM Agentic Systems
-* Analytical approach for real-time scheduling on heterogeneous systems
-* Real-time support for autonomous driving
+* Real-time support for edge AI inference
 * ML-based scheduler design
-* Energy-efficient and predictable GPU scheduling
 
 ## Research Keywords
 Real-Time Systems, Cyber-Physical Systems, Embedded Systems, GPUs, Autonomous Systems, Edge Serving Systems, ML Serving Systems, Energy-Efficiency, Improved Analysis

@@ -29,7 +29,7 @@ Note: The names of our lab members are underlined.
 * <u>Haopeng Gao</u>, Hyunjong Choi and <u>Yidi Wang</u>.  
     **Work-in-Progress: Modeling and Analysis of Inference Latency on USB Edge TPUs.**  
     In Brief Presentation Session of IEEE Real-Time Systems Symposium (RTSS), 2025.  
-    [[Paper](../files/2025/rtss2025wip_tpu_paper.pdf) | [Source Code](https://github.com/raiselab-scu/tpu-usbmon-analysis)]
+    [[Paper](../files/2025/rtss2025wip_tpu_paper.pdf) | [Slides](../files/2025/rtss2025wip_tpu_slides) | [Source Code](https://github.com/raiselab-scu/tpu-usbmon-analysis)]
 
 * Marcus Chen, Pascal Reich, <u>Yidi Wang</u> and Hyunjong Choi.  
     **Work-in-Progress: A Practical Linux Framework for Weakly-Hard Tasks with Constant Bandwidth Server.**  
