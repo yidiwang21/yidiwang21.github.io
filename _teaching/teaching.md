@@ -9,7 +9,7 @@ author_profile: false
 
 ---
 ## Santa Clara University
-* [CSEN 383: Advanced Operating Systems]({{ base_path }}/teaching/CSEN383_home/)
+* [CSEN 383: Advanced Operating Systems]({{ base_path }}/teaching/CSEN383_syllabus/)
 	* Fall 2026
 * CSEN (COEN) 283: Operating Systems
 	* Winter 2025, Spring 2025, Fall 2025

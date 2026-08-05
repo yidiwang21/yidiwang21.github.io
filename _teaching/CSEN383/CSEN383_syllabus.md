@@ -7,9 +7,25 @@ author_profile: false
 
 {% include base_path %}
 
-[Home]({{ base_path }}/teaching/CSEN383_home/) &nbsp;|&nbsp; **Syllabus** &nbsp;|&nbsp; [Schedule]({{ base_path }}/teaching/CSEN383_schedule/)
+&nbsp; **Syllabus** &nbsp;|&nbsp; [Schedule]({{ base_path }}/teaching/CSEN383_schedule/)
 
 ---
+
+Welcome to CSEN 383!
+
+## Course Description
+
+This course covers advanced topics in operating systems: CPU and memory virtualization, concurrency and deadlock, persistence, kernel extensibility, multicore scalability, virtualization, and distributed and datacenter operating systems. Coursework centers on modifying a real kernel — xv6 for three labs, and the Linux kernel for a fourth.
+
+## Logistics
+
+* **Instructor:** Yidi Wang (yidi.wang (at) scu (dot) edu)
+* **Grader:** TBA
+* **Class hours:** T Th 5:40 - 7:30, Bergin 214
+* **Office hours:** TBA
+
+## Prerequisite 
+CSEN 283 or equivalent; familiarity with C language
 
 ## Class Webpage and Communication
 

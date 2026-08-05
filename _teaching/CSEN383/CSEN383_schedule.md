@@ -7,7 +7,7 @@ author_profile: false
 
 {% include base_path %}
 
-[Home]({{ base_path }}/teaching/CSEN383_home/) &nbsp;|&nbsp; [Syllabus]({{ base_path }}/teaching/CSEN383_syllabus/) &nbsp;|&nbsp; **Schedule**
+&nbsp; [Syllabus]({{ base_path }}/teaching/CSEN383_syllabus/) &nbsp;|&nbsp; **Schedule**
 
 ---
 
