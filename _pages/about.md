@@ -33,9 +33,8 @@ During my time at UCR, I have several publications in premier conference in the 
 
 Feel free to reach out to me for research discussions or potential collaborations — I am always open to new ideas and partnerships!
 
-## Office Hours (Spring 2026)
-* Monday 2:00 PM - 3:00 PM (By Appointment)
-* Wednesday 11:40 AM - 12:40 PM (In Person)
+## Office Hours (Fall 2026)
+* Tuesday 3:40 PM - 4:40 PM (In Person) | 2:40 PM - 3:40 PM (By Appointment)
 
 ## Prospective Students
 <!-- <span style="color:red">I am looking for a PhD student highly interested in systems research, starting at Fall 2026</span> (

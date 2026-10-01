@@ -23,7 +23,7 @@ Note: The names of our lab members are underlined.
 
 * Mohsen Karimi, <u>Yidi Wang</u>, Youngbin Kim, Yoojin Lim, Hyoseung Kim.  
     **CARTOS: A Charging-Aware Real-Time Operating System for Intermittent Batteryless Devices.**  
-    In IEEE Transactions on Emerging Topics in Computing (TETC), 2025. (just accepted)  
+    In IEEE Transactions on Emerging Topics in Computing (TETC), 2025.
     <!-- [[Paper](https://arxiv.org/abs/2311.07227)] -->
 
 * <u>Haopeng Gao</u>, Hyunjong Choi and <u>Yidi Wang</u>.  
