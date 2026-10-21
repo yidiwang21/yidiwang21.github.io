@@ -27,21 +27,21 @@ All labs are released on a Thursday and due two weeks later, on a Thursday.
 | 2 | Tue, 9/29 | Virtual Memory I | *PagedAttention* |  |
 | 2 | Thu, 10/1 | Virtual Memory II | OSTEP 13, 18, 19 |  |
 | 3 | Tue, 10/6 | Kernel Extensibility I |  | **Quiz 1** |
-| 3 | Thu, 10/8 | Kernel Extensibility II | *Exokernel* | **Lab 1 due** · **Lab 2 out** |
-| 4 | Tue, 10/13 | Scheduling I | OSTEP 7, 8 | **Quiz 2** |
+| 3 | Thu, 10/8 | Kernel Extensibility II | *Exokernel* | **Lab 1 due** |
+| 4 | Tue, 10/13 | Scheduling I | OSTEP 7, 8 | **Quiz 2** · **Lab 2 out**  |
 | 4 | Thu, 10/15 | Scheduling II | OSTEP 9, 10; *Lottery Scheduling* |  |
-| 5 | Tue, 10/20 | Synchronization |  | **Quiz 3** |
-| 5 | Thu, 10/22 | **Midterm 1** |  | **Lab 2 due** · **Lab 3 out** |
-| 6 | Tue, 10/27 | Multicore and Scalability | *Multikernel* |  |
-| 6 | Thu, 10/29 | I/O, Storage and File Systems | OSTEP 37, 39, 40, 41 |  |
-| 7 | Tue, 11/3 | File Systems II |  |  |
-| 7 | Thu, 11/5 | File Systems III; Cloud Storage | OSTEP 48, 49; *GFS* | **Lab 3 due** · **Lab 4 out** |
-| 8 | Tue, 11/10 | Virtualization; Intro to eBPF | *Xen* | **Quiz 4** |
-| 8 | Thu, 11/12 | Security and Isolation |  |  |
-| 9 | Tue, 11/17 | Distributed Systems; Consistency |  | **Quiz 5** |
-| 9 | Thu, 11/19 | Slack day / finish remaining material |  | **Lab 4 due** |
+| 5 | Tue, 10/20 | Midterm Review |  | **Quiz 3** (take home) |
+| 5 | Thu, 10/22 | **Midterm 1** |  |  |
+| 6 | Tue, 10/27 | Synchronization and Multicore OS | *Multikernel* | **Lab 2 due** · **Lab 3 out** |
+| 6 | Thu, 10/29 | Scalability to Many Cores |  |  |
+| 7 | Tue, 11/3 | I/O, Storage and File Systems | OSTEP 37, 39, 40, 41 | **Quiz 4** |
+| 7 | Thu, 11/5 | File Systems II |  |  |
+| 8 | Tue, 11/10 | Cloud Storage; Intro to eBPF | OSTEP 48, 49; *GFS* | **Lab 3 due** · **Lab 4 out** |
+| 8 | Thu, 11/12 | Virtualization  | *Xen* |  |
+| 9 | Tue, 11/17 | Security and Isolation |  | **Quiz 5** |
+| 9 | Thu, 11/19 | Slack day / finish remaining material |  |  |
 | — | 11/23–27 | *Thanksgiving — no class, no activity* |  |  |
-| 10 | Tue, 12/1 | Review and Wrap-up |  | **Quiz 6** |
+| 10 | Tue, 12/1 | Review and Wrap-up |  | **Quiz 6** · **Lab 4 due** |
 | 10 | Thu, 12/3 | **Midterm 2** |  |  |
 | — | 12/7–12/9 | *Finals week — no activity* |  |  |
 
